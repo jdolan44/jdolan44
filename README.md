@@ -3,7 +3,13 @@ Hi, I'm Joseph Dolan! I'm a sophomore computer science student at the University
 
 There's not much to see here yet but I plan on adding a few projects in the near future.
 
-Currently I'm taking classes in data science using R, databases in SQL, and operating systems.
+Some classes I'm currently taking:
+- DS201: Introduction to Data Science
+  - check out [my semester project](https://github.com/jdolan44/congress_data_package/tree/main)!
+- CMPS340: Introduction to Database
+  - check out [this java application](https://github.com/jdolan44/myretails) that uses JDBC and PostgreSQL!
+- CMPS352: Operating systems
+  - currently working on a group project that plays gomoku across servers using sockets!
 
 <!---
 - 👀 I’m interested in ...
