@@ -3,7 +3,7 @@ Hi, I'm Joseph Dolan! I'm a sophomore computer science student at the University
 
 There's not much to see here yet but I plan on adding a few projects in the near future.
 
-Currently I'm taking classes in data science using R and SQL, as well as an operating systems course.
+Currently I'm taking classes in data science using R, databases in SQL, and operating systems.
 
 <!---
 - 👀 I’m interested in ...
