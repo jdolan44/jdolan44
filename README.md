@@ -4,6 +4,12 @@ Hi, I'm Joseph Dolan! I'm a sophomore computer science student at the University
 There's not much to see here yet but I plan on adding a few projects in the near future.
 
 Some classes I'm currently taking:
+- CMPS355: Mobile app development
+  - currently working on a mobile order app with database interaction, using Kotlin and Jetpack Compose.
+- DS210: Math Methods for Data Science
+
+
+Some classes I have taken:
 - DS201: Introduction to Data Science
   - check out [my semester project](https://github.com/jdolan44/congress_data_package/tree/main)!
 - CMPS340: Introduction to Database
