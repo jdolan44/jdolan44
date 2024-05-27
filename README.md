@@ -1,9 +1,6 @@
 ## @jdolan44
 Hi, I'm Joe Dolan! I'm a rising Junior computer science student at the University of Scranton.
 
-you can contact me at my student email: [joseph.dolan@scranton.edu](mailto:joseph.dolan@scranton.edu)  
-or at my personal email: [jdolan16646@gmail.com](jdolan16646@gmail.com)
-
 ### My current projects I'm working on this summer:
 - learning Rust for systems programming! After my OS class in the fall, I had an interest in similar projects and Rsut seems like a great modern language for interacting with the OS.
 - building a personal portfolio site using Github Pages!
