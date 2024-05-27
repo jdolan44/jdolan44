@@ -2,21 +2,19 @@
 Hi, I'm Joe Dolan! I'm a rising Junior computer science student at the University of Scranton.
 
 ### My current projects I'm working on this summer:
-- learning Rust for systems programming! After my OS class in the fall, I had an interest in similar projects and Rsut seems like a great modern language for interacting with the OS.
+- learning Rust for systems programming! After my OS class in the fall, I had an interest in similar projects and Rust seems like a great modern language for interacting with the OS.
 - building a personal portfolio site using Github Pages!
 - polishing up my final project from my Mobile App Development class!
 
-### Some classes I have taken:
-- CMPS355: Mobile app development
-  - currently working on a mobile order app with database interaction, using Kotlin and Jetpack Compose.
-  - I hope to add my final project repository soon!
-- DS210: Math Methods for Data Science
+### Some class projects I've worked on:
+- CMPS355: Mobile App Development
+  - worked on [a mobile order app](https://github.com/jdolan44/Lunchilicious) with database and web servcie interaction, using Kotlin and Jetpack Compose.
 - DS201: Introduction to Data Science
   - check out [my semester project](https://github.com/jdolan44/congress_data_package/tree/main)!
 - CMPS340: Introduction to Database
   - check out [this java application](https://github.com/jdolan44/myretails) that uses JDBC and PostgreSQL!
-- CMPS352: Operating systems
-  - currently working on a group project that plays gomoku across servers using sockets!
+- CMPS352: Operating Systems
+  - worked in a small group on a client-server system for a two-player game called Gomoku.
 
 <!---
 - 👀 I’m interested in ...
