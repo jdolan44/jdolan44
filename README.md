@@ -3,7 +3,7 @@ Hi, I'm Joe Dolan! I'm a rising Junior computer science student at the Universit
 
 ### My current projects I'm working on this summer:
 - learning Rust for systems programming! After my OS class in the fall, I had an interest in similar projects and Rust seems like a great modern language for interacting with the OS.
-- building a personal portfolio site using Github Pages!
+- building [a personal portfolio site](https://jdolan44.github.io) using Github Pages!
 - polishing up my final project from my Mobile App Development class!
 
 ### Some class projects I've worked on:
