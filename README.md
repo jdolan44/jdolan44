@@ -16,6 +16,7 @@ Hi, I'm Joe Dolan! I'm a rising Junior computer science student at the Universit
 - CMPS352: Operating Systems
   - worked in a small group on a client-server system for a two-player game called Gomoku.
 
+ Feel free to contact me at my email, [jdolan16646@gmail.com](mailto:jdolan16646@gmail.com).
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
