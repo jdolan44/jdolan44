@@ -1,7 +1,7 @@
 ## @jdolan44
 Hi, I'm Joe Dolan! I'm a Junior computer science student at the University of Scranton.
 
-### Some porjects I'm interested in:
+### Some projects I'm interested in:
 - learning Rust for systems programming! After my OS class last fall, I had an interest in similar projects and Rust seems like a great modern language for interacting with the OS.
 - building [a personal portfolio site](https://jdolan44.github.io) using Github Pages!
 - polishing up my final project from my Mobile App Development class!
