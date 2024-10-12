@@ -1,12 +1,11 @@
 ## @jdolan44
 Hi, I'm Joe Dolan! I'm a Junior computer science student at the University of Scranton.
 
-### Some projects I'm interested in:
-- learning Rust for systems programming! After my OS class last fall, I had an interest in similar projects and Rust seems like a great modern language for interacting with the OS.
-- building [a personal portfolio site](https://jdolan44.github.io) using Github Pages!
-- polishing up my final project from my Mobile App Development class!
+### 🛠️ Some projects I'm interested in:
+- Mobile app development with Kotlin! I have a class project I worked on that needs polishing up...
+- Building [a personal portfolio site](https://jdolan44.github.io) using Github Pages!
 
-### Some class projects I've worked on:
+### 📝 Some class projects I've worked on:
 - CMPS355: Mobile App Development
   - worked on [a mobile order app](https://github.com/jdolan44/Lunchilicious) with database and web servcie interaction, using Kotlin and Jetpack Compose.
 - DS201: Introduction to Data Science
@@ -16,7 +15,9 @@ Hi, I'm Joe Dolan! I'm a Junior computer science student at the University of Sc
 - CMPS352: Operating Systems
   - worked in a small group on a client-server system for a two-player game called Gomoku.
 
- Feel free to contact me at my email, [jdolan16646@gmail.com](mailto:jdolan16646@gmail.com).
+### 📫 Contact me:
+ - Email: [jdolan16646@gmail.com](mailto:jdolan16646@gmail.com)
+ - LinkedIn: [www.linkedin.com/in/joseph-dolan-9b691b296](www.linkedin.com/in/joseph-dolan-9b691b296)
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
