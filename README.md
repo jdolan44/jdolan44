@@ -1,11 +1,11 @@
 ## @jdolan44
 Hi, I'm Joe Dolan! I'm a Junior computer science student at the University of Scranton.
 
-### 🛠️ Some projects I'm interested in:
+### 🛠️ Projects I'm interested in:
 - Mobile app development with Kotlin! I have a class project I worked on that needs polishing up...
 - Building [a personal portfolio site](https://jdolan44.github.io) using Github Pages!
 
-### 📝 Some class projects I've worked on:
+### 📝 Class projects I've worked on:
 - CMPS355: Mobile App Development
   - worked on [a mobile order app](https://github.com/jdolan44/Lunchilicious) with database and web servcie interaction, using Kotlin and Jetpack Compose.
 - DS201: Introduction to Data Science
