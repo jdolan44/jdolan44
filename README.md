@@ -1,19 +1,18 @@
 ## @jdolan44
-Hi, I'm Joe Dolan! I'm a Junior computer science student at the University of Scranton.
+Hi, I'm Joe Dolan! I'm a Senior computer science student at the University of Scranton. I'm also a first-year graduate student in Software Engineering!
 
 ### 🛠️ Projects I'm interested in:
-- Mobile app development with Kotlin! I have a class project I worked on that needs polishing up...
+- getting more comfortable with servers and how to administrate them. 
+- Mobile app development with Kotlin! or anything Kotlin. it's a fun language that I want to mess around with more.
 - Building [a personal portfolio site](https://jdolan44.github.io) using Github Pages!
 
 ### 📝 Class projects I've worked on:
-- CMPS355: Mobile App Development
-  - worked on [a mobile order app](https://github.com/jdolan44/Lunchilicious) with database and web servcie interaction, using Kotlin and Jetpack Compose.
-- DS201: Introduction to Data Science
-  - check out [my semester project](https://github.com/jdolan44/congress_data_package/tree/main)!
-- CMPS340: Introduction to Database
-  - check out [this java application](https://github.com/jdolan44/myretails) that uses JDBC and PostgreSQL!
-- CMPS352: Operating Systems
-  - worked in a small group on a client-server system for a two-player game called Gomoku.
+- built a Lego Mindstorms robot in Java.
+- built my own [ThreadPool](https://github/com/jdolan44/threadpool-cmps358).
+- built [a mobile order app](https://github.com/jdolan44/Lunchilicious) with database and web servcie interaction, using Kotlin and Jetpack Compose.
+- [analyzed congressional data](https://github.com/jdolan44/congress_data_package/tree/main) using R.
+- made a [retail program](https://github.com/jdolan44/myretails) that uses JDBC and PostgreSQL!
+- worked in a small group on [a client-server system](https://github.com/jdolan44/gomoku) for a two-player game called Gomoku.
 
 ### 📫 Contact me:
  - Email: [jdolan16646@gmail.com](mailto:jdolan16646@gmail.com)
