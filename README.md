@@ -1,9 +1,9 @@
 ## @jdolan44
-Hi, I'm Joe Dolan! I'm a Senior computer science student at the University of Scranton. I'm also a first-year graduate student in Software Engineering!
+Hi, I'm Joe Dolan! I'm a Senior computer science student at the University of Scranton. I'm also a first-year grad student in Software Engineering.
 
 ### 🛠️ Projects I'm interested in:
-- getting more comfortable with servers and how to administrate them. 
-- Mobile app development with Kotlin! or anything Kotlin. it's a fun language that I want to mess around with more.
+- My senior capstone project.
+- getting more comfortable with servers and how to administrate them.
 - Building [a personal portfolio site](https://jdolan44.github.io) using Github Pages!
 
 ### 📝 Class projects I've worked on:
@@ -11,7 +11,7 @@ Hi, I'm Joe Dolan! I'm a Senior computer science student at the University of Sc
 - built my own [ThreadPool](https://github/com/jdolan44/threadpool-cmps358).
 - built [a mobile order app](https://github.com/jdolan44/Lunchilicious) with database and web servcie interaction, using Kotlin and Jetpack Compose.
 - [analyzed congressional data](https://github.com/jdolan44/congress_data_package/tree/main) using R.
-- made a [retail program](https://github.com/jdolan44/myretails) that uses JDBC and PostgreSQL!
+- made a [retail program](https://github.com/jdolan44/myretails) that uses JDBC and PostgreSQL.
 - worked in a small group on [a client-server system](https://github.com/jdolan44/gomoku) for a two-player game called Gomoku.
 
 ### 📫 Contact me:
