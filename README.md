@@ -16,4 +16,4 @@ Hi, I'm Joe Dolan! I'm a Senior computer science student at the University of Sc
 
 ### 📫 Contact me:
  - Email: [jdolan16646@gmail.com](mailto:jdolan16646@gmail.com)
- - LinkedIn: [www.linkedin.com/in/joseph-dolan-9b691b296](www.linkedin.com/in/joseph-dolan-9b691b296)
+ - LinkedIn: [www.linkedin.com/in/jdolan44/](https://www.linkedin.com/in/jdolan44)
