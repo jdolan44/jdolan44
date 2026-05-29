@@ -2,11 +2,11 @@
 Hi, I'm Joe Dolan! I'm a Senior computer science student at the University of Scranton. I'm also a first-year grad student in Software Engineering.
 
 ### 🛠️ Projects I'm interested in:
-- My senior [capstone project](https://github.com/jdolan44/gameflow_prototype).
 - getting more comfortable with servers and how to administrate them.
 - Building [a personal portfolio site](https://jdolan44.github.io) using Github Pages!
 
-### 📝 Class projects I've worked on:
+### 📝 Projects I've worked on:
+- My senior [capstone project](https://github.com/jdolan44/gameflow).
 - built a Lego Mindstorms robot in Java.
 - built my own [ThreadPool](https://github.com/jdolan44/threadpool-cmps358).
 - built [a mobile order app](https://github.com/jdolan44/Lunchilicious) with database and web servcie interaction, using Kotlin and Jetpack Compose.
